@@ -2,3 +2,17 @@
 однако отличаются историей коммитов.
 
 Коммиты в ветке my_version/master:
+Мои (6 коммитов):
+    1. Update hometask file
+    2. Add hometask file
+    3. Merge branch 'boots_buttons'
+    4. Merge remote-tracking branch 'origin/hat'
+    5. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    6. Merge remote-tracking branch 'origin/boots' into boots_buttons
+Не мои (6 коммитов):
+    1. fix readme
+    2. dots
+    3. README added
+    4. boots
+    5. heat added
+    6. init
